@@ -26,3 +26,5 @@ function insertionSort(array){
   return sortedArray
 
 }
+
+// done
